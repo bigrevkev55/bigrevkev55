@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bigrevkev55
-- 👀 I’m interested in ... SQL, Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... SQL, Python, Java
+- 🌱 I’m currently learning ... Java
+- 💞️ I’m looking to collaborate on ...My The Sweet Science Project
 - 📫 How to reach me ...bigrevkev55@yahoo.com
 
 <!---
